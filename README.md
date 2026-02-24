@@ -5,7 +5,7 @@ Goal was to create a navigable 3d environment with complex lighting and shadows,
 
 Game goal is to navigate to and mine asteroids with ores before the limited and depleting energy of the craft runs out. 
 
-## controls:
+## Controls:
 
 SPACE: Mine with laser
 
@@ -23,7 +23,7 @@ Right Shift / Control: Accelerate Upwards and Downwards
 
 Left Control: Decelerate
 
-## font:
+## Font:
 
 https://fontstruct.com/fontstructions/show/2791810/seven-segment-display-lcd
 
@@ -35,3 +35,6 @@ https://kenney.nl/assets/space-kit
 
 ## Build on Itch.io
 https://droctapus.itch.io/space-miner
+
+## Showcase Video
+https://youtu.be/JeFmZ9XucJ4
