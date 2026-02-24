@@ -5,6 +5,12 @@ Goal was to create a navigable 3d environment with complex lighting and shadows,
 
 Game goal is to navigate to and mine asteroids with ores before the limited and depleting energy of the craft runs out. 
 
+## Building
+Requires Unity.
+Import into the Unity hub by choosing "Add" and "Add project from disk".
+After unity sets up, in the project window, navigate to "Scenes" folder and double click "GAME".
+Press "Ctrl + B" to build and run.
+
 ## Controls:
 
 SPACE: Mine with laser
