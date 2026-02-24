@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 72b48c24c47d11c47b4267f843442f68
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - asteroidPrefab: {fileID: 7893061803659411437, guid: 8c626120b04d91f4fa052b20aa0d5f2b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
